@@ -1,1 +1,9 @@
+# Python
+.venv/
+
+# IDE - IntelliJ
 .idea
+
+# IDE - Visual Studio Code
+*.code-workspace
+.vscode/
